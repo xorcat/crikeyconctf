@@ -1,3 +1,5 @@
 theme: jekyll-theme-hacker
 title: CrikeyCon CTF
 description: A place to find information on CrikeyCon's (https://www.crikeycon.com) CTF.  FAQ's etc and hopefully eventually writeups for challenges.
+github:
+  is_project_page: false
