@@ -10,9 +10,11 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Welcome!
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Oh hi!  Thanks for visiting our little site.   So...whats the deal?
+We wanted a way to be able to give out information on CrikeyCon's CTF, prior to the con, as well as place where we might be able to put up writeups etc afterwards too.   So...here we are.
+There will be various FAQ's etc, and hopefully we'll keep adding to the site, so bear (hehe...Bear...as in Droppy....get it...........WHATEVER!) with us while we keep adding content.
 
 ## Header 2
 
