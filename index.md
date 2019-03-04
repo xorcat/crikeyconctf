@@ -53,6 +53,9 @@ Once connected browse to https://ctf.crikeycon.com and you'll get to the scorebo
 ### What are the rules of playing the CTF?
 Please read the rules listed here
 
+### Is it safe to play the CTF/join the CTF network?
+Well...hopefully, yes, it's safe.  But you are on a hostile network, there are other hackers on there, but hopefully everyone abides by the Rules, including not attacking other players.  We hope it doesn't happen, but idiots will be idiots sometimes.  If you do think someones doing something they shouldn't please let a member of the CTF crew immediatly so we can investigate.
+
 # CTF Challenge Writeups
 
 This section will "hopefully" eventually have writeups of some of the CTF challenges, ideally by players who completed the challenge.
