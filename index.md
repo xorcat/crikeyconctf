@@ -9,3 +9,15 @@ Oh hi!  Thanks for visiting our little site.   So...whats the deal?
 We wanted a way to be able to give out information on CrikeyCon's CTF, prior to the con, as well as place where we might be able to put up writeups etc afterwards too.   So...here we are.
 
 There will be various FAQ's etc, and hopefully we'll keep adding to the site, so bear (hehe...Bear...as in Droppy....get it...........WHATEVER!) with us while we keep adding content.
+
+
+# More Info
+
+
+# FAQs
+### What is a CTF?
+For a great explanation check out [CTFd.io - Whats A CTF](https://ctfd.io/whats-a-ctf/).
+
+# CTF Challenge Writeups
+
+This section will "hopefully" eventually have writeups of some of the CTF challenges, ideally by players who completed the challenge.
