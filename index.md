@@ -12,11 +12,11 @@ There will be various FAQ's etc, and hopefully we'll keep adding to the site, so
 
 
 # More Info
-On the day, come into the CTF room (or anywhere around the venue) and find the "CrikeyCTF" wireless network. Join it with he top secure password of "crikeyctf" and browse to https://cf.crikeycon.com.  Register on the website (you can put in a fake email address, we don't use em) and then either register a team or join an existing one.
+On the day, come into the CTF room (or anywhere around the venue) and find the "CrikeyCTF" wireless network. Join it with he top secure password of "crikeyctf" and browse to the [CTF Scoreboard](https://ctf.crikeycon.com) (This will be different on the network on he day than this site).  Register on the website (you can put in a fake email address, we don't use em) and then either register a team or join an existing one.
 
 Once registered and the CTF starts, challenges will be listed.  Click on them try and solve it and find the flag.  Pretty much all flags are in the format of flag{example_flag}.
 
-We will have limited internet on the network, but if you need any "BIG" files, please first check http://files.crikey.ctf.  On there should be ISO's and VM's for Kali etc, wordlists you may need, and other tools that would be useful (e.g Burp Suite, VMWare Player, VirtualBox etc)
+We will have limited internet on the network, but if you need any "BIG" files, please first check our [Files Server](http://files.crikey.ctf) on the network..  On there should be ISO's and VM's for Kali etc, wordlists you may need, and other tools that would be useful (e.g Burp Suite, VMWare Player, VirtualBox etc)
 
 If you have ANY other questions or concerns, come find a member of the CTF crew, we'll be sat behind the main CTF Admin desk pulling our hair out trying to fix DNS issues again.
 
@@ -70,6 +70,15 @@ Please read the rules listed here:
 
 ### Is it safe to play the CTF/join the CTF network?
 Well...hopefully, yes, it's safe.  But you are on a hostile network, there are other hackers on there, but hopefully everyone abides by the Rules, including not attacking other players.  We hope it doesn't happen, but idiots will be idiots sometimes.  If you do think someones doing something they shouldn't please let a member of the CTF crew immediatly so we can investigate.
+
+### Who created this AWESOME CTF?
+* dook - @dooktwit
+* Bull - @RobertWinkel
+* klaxon - @klaxon_1
+* timk - @__timk
+* lystena - @lystena
+* geckom - @g3ck0m
+* AB - @abur583
 
 # CTF Challenge Writeups
 
