@@ -12,6 +12,13 @@ There will be various FAQ's etc, and hopefully we'll keep adding to the site, so
 
 
 # More Info
+On the day, come into the CTF room (or anywhere around the venue) and find the "CrikeyCTF" wireless network. Join it with he top secure password of "crikeyctf" and browse to https://cf.crikeycon.com.  Register on the website (you can put in a fake email address, we don't use em) and then either register a team or join an existing one.
+
+Once registered and the CTF starts, challenges will be listed.  Click on them try and solve it and find the flag.  Pretty much all flags are in the format of flag{example_flag}.
+
+We will have limited internet on the network, but if you need any "BIG" files, please first check http://files.crikey.ctf.  On there should be ISO's and VM's for Kali etc, wordlists you may need, and other tools that would be useful (e.g Burp Suite, VMWare Player, VirtualBox etc)
+
+If you have ANY other questions or concerns, come find a member of the CTF crew, we'll be sat behind the main CTF Admin desk pulling our hair out trying to fix DNS issues again.
 
 
 # FAQs
@@ -32,8 +39,10 @@ CrikeyConCTF has always been a "beginner" level CTF, we always have challenges f
 * Web
 * Crypto
 * Exploit
+* Binaries
 * Trivia
 * GRC Trivia
+* etc.  There will be a wide range.
 
 ### I'm a good CTF player, but before i play i want to know what the prizes will be?
 Naaa, this CTF ain't for you.  We want people to have fun, and learn something.  Sure everyone loves a winner, but if thats your main focus, you won't enjoy this CTF.
@@ -51,7 +60,13 @@ So...you have a laptop, you have Kali.  Find a seat in the CTF room (or anywhere
 Once connected browse to https://ctf.crikeycon.com and you'll get to the scoreboard, register as a player, and register a team or join an existing one with friends.  Once registered and logged in, click on the "Challenges" andf start playing!
 
 ### What are the rules of playing the CTF?
-Please read the rules listed here
+Please read the rules listed here:
+
+* Don't be a dick.  Yeah yeah, very generic, but basically if you you're thinking of doing something that some people may think is wrong or stupid etc.  Please don't.
+* Don't attack the CTF infrastructure.  We spend a LOT of time working hard to create challenges for players, so hopefully they are challenged, have fun and learn something.  We try our best to secure the infrastucture (Wireless, Scoreboard, Servers etc) but it's not our main focus, thats on challenges.   Just please don't, if you do "pop us" we won't be impressed, we'll think you're pretty much breaking this rule and rule 1 above.
+* Don't attack other players.   They aren't here to be hacked or have their day spoiled, hopefully they wanna have fun and learn something, without the fear of nasty things happening to them on the network.  Please don't.
+* No Menz's - Goes without saying.
+* Maximum number of players per team.  This is hard, and pretty much impossible to control, but we'd prefer teams of no more than 4-6.  If you have more than that in your crew, split into 2 different teams and compete againest each other.
 
 ### Is it safe to play the CTF/join the CTF network?
 Well...hopefully, yes, it's safe.  But you are on a hostile network, there are other hackers on there, but hopefully everyone abides by the Rules, including not attacking other players.  We hope it doesn't happen, but idiots will be idiots sometimes.  If you do think someones doing something they shouldn't please let a member of the CTF crew immediatly so we can investigate.
