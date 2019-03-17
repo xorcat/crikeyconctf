@@ -50,6 +50,13 @@ Naaa, this CTF ain't for you.  We want people to have fun, and learn something. 
 Having said that, we will have prizes, donated by our awesome sponsors PenTestLabs and OzHack.
 We give away prizes and trophys to the top 3 teams, but also give away random prizes throughout the CTF.  Basically we will pick a point during the game, watch the log for incoming correct flags and the next team to submit, wins the prize.  This means, ANYONE can win a prize, just by playing the CTF.
 
+Prizes for this year include:
+* 3 & 6 month vouchers from the awesome [PenTesterLab](https://pentesterlab.com/) (Also come get a free sticker from the CTF table)
+* Various hacker tools from our sponsor since our first ever CTF [OZHack](https://ozhack.com/)
+* Tickets to the inaugural [BSidesBrisbane](https://bsidesbrisbane.com/)
+* Tickets to NEXT years CrikeyCon (Oh god, we can't be considering that yet can we?)
+* The most AWESOME of trophies to compete againest last years Chicken, Cheerleaders and ...was it darts or snooker players trophies.
+
 ### I've NEVER played a CTF before, but keen to play, what will i need?
 Awesome, this CTF is for you.  The main thing you'll need is a laptop.  The scoreboard and most of the challenges should be accessible on a mobile phone, but you may need certain tools to solve challenges you'll probably need a laptop to run.
 We suggest you either run Kali Linux on your laptop, or run it in a Virtual Machine on your laptop.  It has the majority of the tools you'll need.  If you've never set this up before, come see a member of the CTF crew and we should be able to help you get setup.
