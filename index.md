@@ -49,7 +49,7 @@ CrikeyConCTF has always been a "beginner" level CTF, we always have challenges f
 ### I'm a good CTF player, but before i play i want to know what the prizes will be?
 Naaa, this CTF ain't for you.  We want people to have fun, and learn something.  Sure everyone loves a winner, but if thats your main focus, you won't enjoy this CTF.
 
-Having said that, we will have prizes, donated by our awesome sponsors PenTestLabs and OzHack.
+Having said that, we will have prizes, donated by our awesome sponsors OzHackm, PenTestLabs and BSidesBrisbane.
 We give away prizes and trophys to the top 3 teams, but also give away random prizes throughout the CTF.  Basically we will pick a point during the game, watch the log for incoming correct flags and the next team to submit, wins the prize.  This means, ANYONE can win a prize, just by playing the CTF.
 
 Prizes for this year include:
