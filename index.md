@@ -12,7 +12,7 @@ There will be various FAQ's etc, and hopefully we'll keep adding to the site, so
 
 
 # More Info
-On the day, come into the CTF room (or anywhere around the venue) and find the "CrikeyCTF" wireless network. Join it with he top secure password of "crikeyctf" and browse to the [CTF Scoreboard](https://ctf.crikeycon.com) (This will be different on the network on he day than this site).  Register on the website (you can put in a fake email address, we don't use em) and then either register a team or join an existing one.
+On the day, come into the CTF room (or anywhere around the venue) and find the "CrikeyCTF" wireless network. Join it with he top secure password of "crikeyctf" and browse to the [CTF Scoreboard](https://ctf.crikeycon.com) (This will be different on the network on the day than this site).  Register on the website (you can put in a fake email address, we don't use em) and then either register a team or join an existing one.
 
 Once registered and the CTF starts, challenges will be listed.  Click on them try and solve it and find the flag.  Pretty much all flags are in the format of flag{example_flag}.
 
@@ -20,6 +20,7 @@ We will have limited internet on the network, but if you need any "BIG" files, p
 
 If you have ANY other questions or concerns, come find a member of the CTF crew, we'll be sat behind the main CTF Admin desk pulling our hair out trying to fix DNS issues again.
 
+This year we have brought back some previous years challenges, mainly because we know we have more new people coming to CrikeyCon, and want them to play them too, and hopefully learn something.
 
 # FAQs
 ### What is a CTF?
@@ -39,6 +40,7 @@ CrikeyConCTF has always been a "beginner" level CTF, we always have challenges f
 * Web
 * Crypto
 * Exploit
+* Devices (We have some vulnerable devices, with known exploits.  Can you find them and pop them for the flag?)
 * Binaries
 * Trivia
 * GRC Trivia
