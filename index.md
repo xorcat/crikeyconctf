@@ -66,7 +66,7 @@ We suggest you either run Kali Linux on your laptop, or run it in a Virtual Mach
 If you don't have a laptop, or don't want to bring one, we do have 4 "loaner" laptops which will be setup, running Kali Linux on a USB stick.  Please use them, and once done, give them a reboot so anything you've done gets removed.
 
 So...you have a laptop, you have Kali.  Find a seat in the CTF room (or anywhere else round the venue) and connect to the "CrikeyCTF" wireless network which should be available.  The password for the wireless network is "crikeyctf".
-Once connected browse to https://ctf.crikeycon.com and you'll get to the scoreboard, register as a player, and register a team or join an existing one with friends.  Once registered and logged in, click on the "Challenges" andf start playing!
+Once connected browse to https://ctf.crikeycon.com and you'll get to the scoreboard, register as a player, and register a team or join an existing one with friends.  Once registered and logged in, click on the "Challenges" and start playing!
 
 ### What are the rules of playing the CTF?
 Please read the rules listed here:
