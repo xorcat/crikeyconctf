@@ -30,7 +30,9 @@ For a great explanation check out [CTFd.io - Whats A CTF](https://ctfd.io/whats-
 CrikeyConCTF 2019 will take place at CrikeyCon 2019 on April 6th-7th 2019, in Brisbane, QLD, Australia.
 
 ### Will the CTF be playable online?
-No, the CTF is only available on the CTF wireless network at CrikeyCon.### How much will it cost to play the CTF?
+No, the CTF is only available on the CTF wireless network at CrikeyCon.
+
+### How much will it cost to play the CTF?
 $25 a player........naa, course not (good idea though).  It's free!
 
 ### What skill level is CrikeyConCTF?
